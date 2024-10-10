@@ -1,0 +1,12 @@
+/Users/mac/Projects/Rust/video_downloader/target/debug/deps/libhttparse-30782ed271d8991c.rmeta: /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.5/src/lib.rs /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.5/src/iter.rs /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.5/src/macros.rs /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.5/src/simd/mod.rs /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.5/src/simd/swar.rs /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.5/src/simd/neon.rs
+
+/Users/mac/Projects/Rust/video_downloader/target/debug/deps/libhttparse-30782ed271d8991c.rlib: /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.5/src/lib.rs /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.5/src/iter.rs /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.5/src/macros.rs /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.5/src/simd/mod.rs /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.5/src/simd/swar.rs /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.5/src/simd/neon.rs
+
+/Users/mac/Projects/Rust/video_downloader/target/debug/deps/httparse-30782ed271d8991c.d: /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.5/src/lib.rs /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.5/src/iter.rs /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.5/src/macros.rs /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.5/src/simd/mod.rs /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.5/src/simd/swar.rs /Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.5/src/simd/neon.rs
+
+/Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.5/src/lib.rs:
+/Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.5/src/iter.rs:
+/Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.5/src/macros.rs:
+/Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.5/src/simd/mod.rs:
+/Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.5/src/simd/swar.rs:
+/Users/mac/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.5/src/simd/neon.rs:
